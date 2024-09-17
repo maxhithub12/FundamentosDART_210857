@@ -7,7 +7,8 @@ Fundamentos de dart
 |1|Metodologia de evaluacion de la asignatura|1|Finalizada|
 |2|Instalacion y configuracion del entorno de desarrollo de Flutter/Dart|23|Finalizada|
 |3|Hola mundo desde DAR|10|Finalizada|
-|4|Tipos de datos en Dart|Finalizada|
+|4|Tipos de datos en Dart|5|Finalizada|
+|5|Tipos de datos Dinamicos|En proceso|Activa|
 
 ## LISTA DE HERRAMIENTAS
 ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
