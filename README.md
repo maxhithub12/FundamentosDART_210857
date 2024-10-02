@@ -11,8 +11,9 @@ Fundamentos de dart
 |5|Tipos de datos Dinamicos|5|✅Finalizada|
 |6|Mapas|6|✅Finalizada|
 |7|Listas,Iterables y conjuntos de datos|9|✅Finalizada|
-|8|Funciones y Parámetros|11|⭐Activa|
-|9|Clases|10|⭐Activa|
+|8|Funciones y Parámetros|11|✅Finalizada|
+|9|Clases|10|✅Finalizada|
+|10|Conductores Nombrados|8|✅Finalizada|
 
 ## LISTA DE HERRAMIENTAS
 ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
