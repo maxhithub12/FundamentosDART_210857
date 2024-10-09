@@ -14,7 +14,11 @@ Fundamentos de dart
 |8|Funciones y Parámetros|11|✅Finalizada|
 |9|Clases|10|✅Finalizada|
 |10|Conductores Nombrados|8|✅Finalizada|
-|11| Setters y Getters|Pendiente|⭐Activa|
+|11| Setters y Getters|9|✅Finalizada|
+|12| Asserts|3|⭐Activa|
+|13| Clases 11|Pendiente|⭐Activa|
+|14| Mixins|11|⭐Activa|
+|15| Future|Pendiente|⭐Activa|
 ## LISTA DE HERRAMIENTAS
 ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
